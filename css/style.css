@@ -31,23 +31,26 @@
     margin-top: 30px;
 }
 
-.elenco {
+#elenco {
     margin-top: 40px;
     margin-left: 0px;
 }
 
-.elenco ul {
+#elenco ul {
     padding-left: 10px
 }
 
 #base {
     background-color: #313a6b;
     height: 50px;
-    width: 100%
+    width: 100%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #313a6b;
 }
 
 .copyright {
     color: white;
-    margin-left: 40%;
+    padding-left: 40%;
     font-size: 14px;
 }
