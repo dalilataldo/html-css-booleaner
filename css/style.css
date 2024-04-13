@@ -39,3 +39,15 @@
 .elenco ul {
     padding-left: 10px
 }
+
+#base {
+    background-color: #313a6b;
+    height: 50px;
+    width: 100%
+}
+
+.copyright {
+    color: white;
+    margin-left: 40%;
+    font-size: 14px;
+}
