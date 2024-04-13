@@ -1,0 +1,41 @@
+#sfondo {
+    background-color: #9cd6f4;
+    height: 100px;
+    width: 100%;
+}
+
+.dimensioni {
+    height: 30%;
+    margin-top: 40px;
+}
+
+#titolo {
+    margin-top: 50px;
+    line-height: 0px;
+}
+
+.azzurro {
+    color: #4ea0ff;
+}
+
+.rimpicciolire {
+    font-size: 8px;
+}
+
+#foto {
+    margin-top: 20px;
+    line-height: 0px;
+}
+
+#paragrafo {
+    margin-top: 30px;
+}
+
+.elenco {
+    margin-top: 40px;
+    margin-left: 0px;
+}
+
+.elenco ul {
+    padding-left: 10px
+}
