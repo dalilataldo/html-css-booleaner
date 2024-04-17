@@ -1,12 +1,18 @@
-#sfondo {
-    background-color: #9cd6f4;
-    height: 100px;
-    width: 100%;
+body {
+    margin: 0;
 }
 
-.dimensioni {
-    height: 30%;
-    margin-top: 30px;
+
+
+header {
+    background-image: url(../img/pattern.png)
+}
+
+#logo {
+    height: 150px;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #titolo {
@@ -37,7 +43,7 @@
 }
 
 #elenco ul {
-    padding-left: 15px;
+    padding-left: 20px;
 }
 
 #tabella {
@@ -79,6 +85,6 @@ td {
 
 .copyright {
     color: white;
-    padding-left: 40%;
+    text-align: center;
     font-size: 14px;
 }
